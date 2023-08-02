@@ -1,0 +1,5 @@
+Title,Release date,MPAA rating,Director,Studio
+Shrek,2001-05-10,PG,Andrew Adamson & Vicky Jenson,DreamWorks Animation
+Shrek 2,2004-05-19,PG,Andrew Adamson & Kelly Asbury & Conrad Vernon,DreamWorks Animation
+Shrek the Thirds,2007-05-18,PG,Chris Miller & Raman Hui,DreamWorks Animation
+Shrek Forever After,2010-05-21,Pg,Mike Mitchell,DreamWorks Animation

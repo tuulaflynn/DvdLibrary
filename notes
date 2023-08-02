@@ -1,0 +1,22 @@
+1. Add a DVD
+2. Remove a DVD
+3. Edit a DVD
+4. List the DVDs
+5. Display a DVD
+6. Search for a DVD
+7. Load DVD library from file
+8. Save DVD library back to the file
+9. Add many DVDs in one go
+10. edit dvds
+11. delete dvds
+12. exit
+
+properties of dvd
+dvdTitle
+dvdReleaseDate
+dvdMpAARating
+dvdDirector
+dvdStudio
+dvdUserRating
+
+first I will do 7.
